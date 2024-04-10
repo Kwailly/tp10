@@ -1,0 +1,4 @@
+Client: DUPONT
+Produit: boite_punaises - Quantité: 45 - Prix unitaire: 3.500000
+Produit: boite_trombones - Quantité: 15 - Prix unitaire: 4.100000
+Total: 219.000000

@@ -1,0 +1,8 @@
+Client: DURAND
+Produit: feutre - Quantité: 25 - Prix unitaire: 1.800000
+Produit: regle - Quantité: 15 - Prix unitaire: 2.300000
+Produit: agrafeuse - Quantité: 50 - Prix unitaire: 5.600000
+Produit: ramette_feuillesA4 - Quantité: 25 - Prix unitaire: 9.900000
+Produit: boite_100enveloppes11*21 - Quantité: 30 - Prix unitaire: 8.700000
+Produit: boite_100enveloppes30*21 - Quantité: 15 - Prix unitaire: 14.700000
+Total: 1088.500000

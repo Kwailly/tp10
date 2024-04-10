@@ -1,0 +1,1 @@
+# tp10 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/Kwailly/tp10.gitgit push -u origin main

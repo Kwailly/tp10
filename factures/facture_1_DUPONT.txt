@@ -1,0 +1,7 @@
+Client: DUPONT
+Produit: crayon - Quantité: 10 - Prix unitaire: 1.200000
+Produit: agrafeuse - Quantité: 25 - Prix unitaire: 5.600000
+Produit: ramette_feuillesA4 - Quantité: 35 - Prix unitaire: 9.900000
+Produit: boite_100enveloppes11*21 - Quantité: 60 - Prix unitaire: 8.700000
+Produit: boite_100enveloppes30*21 - Quantité: 50 - Prix unitaire: 14.700000
+Total: 1755.500000

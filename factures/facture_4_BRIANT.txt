@@ -1,0 +1,4 @@
+Client: BRIANT
+Produit: boite_punaises - Quantité: 15 - Prix unitaire: 3.500000
+Produit: boite_trombones - Quantité: 10 - Prix unitaire: 4.100000
+Total: 93.500000
